@@ -1,6 +1,9 @@
 
 # Depth First Search (DFS) and Breadth First Search (BFS)
 
+<h4>Preview</h4>
+https://github.com/Qaiserfarooq285/Alphabet_Dfs_Bfs/blob/main/download%20(1).png
+
 This repository contains Python code that demonstrates Depth First Search (DFS) and Breadth First Search (BFS) algorithms on a tree data structure represented as a Python dictionary.
 
 ## Usage
